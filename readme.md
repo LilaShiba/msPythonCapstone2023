@@ -2,7 +2,7 @@
 
 This project provides a simple example of drawing a 2D dog face using Turtle graphics in Python. You will learn how to create and customize a dog face and add your own functions to the `dog_template.py` file.
 
-# 📚 Understanding the Code 📚 
+## 📚 Understanding the Code 📚 
 
 The project consists of two files:
 
@@ -10,7 +10,7 @@ The project consists of two files:
 
 2. `main.py`: This file contains a function called `draw_dog_face()` that uses the functions from `dog_template.py` to draw a simple 2D dog face. You can modify the parameters of these functions to create your own custom dog face.
 
-# 🎯 Centering the Dog Face 🎯 
+## 🎯 Centering the Dog Face 🎯 
 
 To center the dog face on the screen, follow these steps:
 
@@ -36,6 +36,8 @@ To add whiskers to your dog face drawing, you can create a new function in the `
 
 7. Call the `draw_whiskers()` function within the `draw_dog_face()` function or create a new function to combine your drawings.
 
+<details>
+<summary><strong>Hint for Students</strong></summary>
 Here's a simple example of how you can create a `draw_whiskers()` function:
 
 ```python
@@ -62,33 +64,41 @@ def draw_whiskers():
     # Reset the turtle heading
     turtle.setheading(0)
 ```
+</details>
+<br>
+<br>
 
 # 🚀 Have Fun and Be Creative! 🚀
-Now it's time for you to explore and have fun creating your own unique dog face designs! Remember, you can always add more functions to the dog_template.py file and create more complex drawings. Don't be afraid to experiment and let your creativity shine! 🌟
+
+Now it's time for you to explore and have fun creating your own unique dog face designs! Remember, you can always add more functions to the `dog_template.py` file and create more complex drawings. Don't be afraid to experiment, fail, and learn 🌟
 
 
-1. Animate the Dog: Use the turtle library to animate the dog face by adding movement or changing expressions. For example, you can make the dog blink its eyes or wag its tail.
+Here are a few more ideas to extend your dog face drawing project:
 
-2. Create a Full Dog Image: Expand the drawing to include the dog's body, legs, and tail. You can create additional functions in the dog_template.py file to draw these elements and modify the draw_dog_face() function to incorporate them.
+1. **Animate the Dog**: Use the turtle library to animate the dog face by adding movement or changing expressions. For example, you can make the dog blink its eyes or wag its tail.
 
-3. Design Different Dog Breeds: Customize your dog face to resemble specific dog breeds. Research different dog breeds and modify the shapes, colors, and features of your dog face to reflect their characteristics.
+2. **Create a Full Dog Image**: Expand the drawing to include the dog's body, legs, and tail. You can create additional functions in the `dog_template.py` file to draw these elements and modify the `draw_dog_face()` function to incorporate them.
 
-4. Build a Dog Face Generator: Create a program that randomly generates different dog face designs. You can use functions with randomized parameters to generate variations in size, shape, and color of the dog's face components.
+3. **Design Different Dog Breeds**: Customize your dog face to resemble specific dog breeds. Research different dog breeds and modify the shapes, colors, and features of your dog face to reflect their characteristics.
+
+4. **Build a Dog Face Generator**: Create a program that randomly generates different dog face designs. You can use functions with randomized parameters to generate variations in size, shape, and color of the dog's face components.
+
+Feel free to explore these extensions or come up with your own creative ideas to make your dog face drawings even more exciting and unique!
 
 <br>
 
-# 🌌 May the Force Be with You, Young Jedi! 🌌
+# Open Source
 
-Remember, the goal is to have fun and learn through trying. Feel free to explore these extensions or come up with your own creative ideas to make your dog face drawings even more exciting and unique!
+## 📝 Contributing
 
-## Contributing
+Contributions are welcome! If you have any ideas, suggestions, or improvements, please open an issue or submit a pull request.
 
-Instructions for contributing to the project or guidelines for developers.
+## 📄 License
 
-## License
+This project is licensed under the [MIT License](LICENSE)
 
-This project is licensed under the [MIT License](LICENSE).
+## 📧 Contact
 
-## Contact
+If you have any questions or need further assistance, feel free to contact by howl-chain 🐶
 
-Contact information for the project maintainer or contributors.
+Happy dog face drawing 🎨
