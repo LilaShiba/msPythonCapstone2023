@@ -40,11 +40,12 @@ To add whiskers to your dog face drawing, you can create a new function in the `
 7. Call the `draw_whiskers()` function within the `draw_dog_face()` function or create a new function to combine your drawings.
 
 <details>
+    
 <summary><strong>Hint to get started</strong></summary>
 
-Here's a simple example of how you can create a `draw_whiskers()` function:
+Here's an imperfect example of how you can create a `draw_whiskers()` function:
 
-```python
+<pre lang="python">
 def draw_whiskers():
     # Set the pen color and width
     turtle.pencolor("black")
@@ -67,9 +68,10 @@ def draw_whiskers():
 
     # Reset the turtle heading
     turtle.setheading(0)
-```
-    
+</pre>
+
 </details>
+
 <br>
 <br>
 
