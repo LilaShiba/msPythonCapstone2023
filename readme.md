@@ -1,6 +1,6 @@
 # 🐶 Drawing a 2D Dog Face 🐶
 
-This project provides a simple example of drawing a 2D dog face using Turtle graphics in Python. You will learn how to create and customize a dog face and add your own functions to the `dog_template.py` file.
+This project provides an example of drawing a 2D dog face using Turtle graphics in Python. You will learn how to create and customize a dog face and add your own functions to the `dog_template.py` file.
 
 ## 📚 Understanding the Code 📚 
 
@@ -10,6 +10,9 @@ The project consists of two files:
 
 2. `main.py`: This file contains a function called `draw_dog_face()` that uses the functions from `dog_template.py` to draw a simple 2D dog face. You can modify the parameters of these functions to create your own custom dog face.
 
+# TODO's
+Here are your tasks as the tech lead of digital dogs!
+
 ## 🎯 Centering the Dog Face 🎯 
 
 To center the dog face on the screen, follow these steps:
@@ -18,7 +21,7 @@ To center the dog face on the screen, follow these steps:
 2. Find the `draw_dog_face()` function.
 3. Modify the `move_turtle()` function calls with the appropriate coordinates to center the face.
 
-# 🐾 Drawing Whiskers 🐾 
+## 🐾 Drawing Whiskers 🐾 
 
 To add whiskers to your dog face drawing, you can create a new function in the `dog_template.py` file. Here are some tips to help you get started:
 
@@ -70,9 +73,8 @@ def draw_whiskers():
 <br>
 <br>
 
-# 🚀 Have Fun and Be Creative! 🚀
-
-Now it's time for you to explore and have fun creating your own unique dog face designs! Remember, you can always add more functions to the `dog_template.py` file and create more complex drawings. Don't be afraid to experiment, fail, and learn 🌟
+## 🚀 Have Fun and Be Creative! 🚀
+After all, that's what a dog would do. Plus, it's time for you to explore and have fun creating your own unique dog face designs! Remember, you can always add more functions to the `dog_template.py` file and create more complex drawings. Don't be afraid to experiment, fail, and learn 🌟
 
 
 Here are a few more ideas to extend your dog face drawing project:
