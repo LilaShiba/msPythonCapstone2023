@@ -91,6 +91,8 @@ Feel free to explore these extensions or come up with your own creative ideas to
 
 <br>
 
+Teacher James when they realize the course is almost over!
+
 ![woof](imgs/woof.png)
 
 # Open Source
