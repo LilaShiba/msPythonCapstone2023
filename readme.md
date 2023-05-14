@@ -4,7 +4,7 @@ This project provides an example of drawing a 2D dog face using Turtle graphics 
 
 ## 📚 Understanding the Code 📚 
 
-The project consists of two files:
+The [project](https://replit.com/team/msintrosundaypython/templates/Capstone) consists of two files:
 
 1. `dog_template.py`: This file contains basic functions for drawing shapes and moving the turtle. You can use these functions to create more complex drawings.
 
