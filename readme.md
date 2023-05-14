@@ -87,6 +87,8 @@ Feel free to explore these extensions or come up with your own creative ideas to
 
 <br>
 
+![woof](imgs/woof.png)
+
 # Open Source
 
 ## 📝 Contributing
