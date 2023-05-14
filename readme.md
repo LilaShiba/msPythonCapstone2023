@@ -63,11 +63,9 @@ def draw_whiskers():
     turtle.setheading(0)
 ```
 
-## 🚀 Have Fun and Be Creative! 🚀
+# 🚀 Have Fun and Be Creative! 🚀
 Now it's time for you to explore and have fun creating your own unique dog face designs! Remember, you can always add more functions to the dog_template.py file and create more complex drawings. Don't be afraid to experiment and let your creativity shine! 🌟
 
-## 🖼️ Extensions 🖼️
-If you're looking for some additional challenges, here are some extensions you can try:
 
 1. Animate the Dog: Use the turtle library to animate the dog face by adding movement or changing expressions. For example, you can make the dog blink its eyes or wag its tail.
 
@@ -77,7 +75,20 @@ If you're looking for some additional challenges, here are some extensions you c
 
 4. Build a Dog Face Generator: Create a program that randomly generates different dog face designs. You can use functions with randomized parameters to generate variations in size, shape, and color of the dog's face components.
 
+<br>
 
-## 🌌 May the Force Be with You, Young Jedi! 🌌
+# 🌌 May the Force Be with You, Young Jedi! 🌌
 
 Remember, the goal is to have fun and learn through trying. Feel free to explore these extensions or come up with your own creative ideas to make your dog face drawings even more exciting and unique!
+
+## Contributing
+
+Instructions for contributing to the project or guidelines for developers.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+Contact information for the project maintainer or contributors.
